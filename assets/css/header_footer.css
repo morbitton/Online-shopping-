@@ -1,0 +1,149 @@
+ * {
+	font-family: 'sans-serif';
+	margin: 0px;
+	padding: 0px;
+	box-sizing:border-box;
+}
+table, th, td {
+            border: 1px solid black;
+            font-size:20px;
+            text-align: center;
+        }
+        th{
+            font-size:25px;
+        }
+      
+table{margin-bottom:5%;width:100%;}  
+#wrapper{
+    width:100%;
+    margin:auto;
+    overflow:auto;
+    margin-bottom:4%;
+}	
+#searchWrraper{
+    width:100%;
+    margin:auto;
+    overflow:auto;
+    margin-top:4%;
+    margin-bottom:4%;
+}	
+label{
+    float:left;
+    width:40%;
+}
+#headerimg{
+    width:100%;
+    height:30vh;
+    margin-top: 10px;
+
+}
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+main{
+    width:60%;
+    background-color: rgba(185, 185, 185, 0.101);
+    margin:auto;
+    margin-bottom:3%;
+    overflow:auto;
+    padding-top:2%;
+}
+#mainWrraper{
+    width:70%;margin:auto;}
+
+nav{
+	
+	padding-top:0.5%;
+	font-size:20px;
+	width:100%;
+	float:left;
+	height:80px;
+	background-color: #D3F2F0;
+        margin-bottom: 50px;
+}
+ul{
+	list-style-type:none;
+	width: 80%;
+	margin-left:3%;
+	overflow:auto;
+        
+}
+li{
+	float:left;
+	/*width:14%;*/
+	margin-top:15px;
+}
+#selected{color:#cc0000;font-weight:bold;}
+a{
+	text-decoration:none;
+	color:black;
+}
+#api
+{
+    clear: both;
+    text-align: center;
+    margin-bottom: 20px;
+}
+/*#logout
+{
+    width:20%;
+    margin:auto;
+    font-size:20px;
+}*/
+#register
+{
+    float:left;
+    width:30%;
+    margin-left:2%;
+}		
+#firstp
+{
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    display:inline-block;
+    width: 70%;
+    float:left;
+}
+#homepageimg
+{
+    display:inline-block;
+    height: 300px;
+    width: 20%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+footer
+{
+    clear: both;
+    width:100%;
+    margin:auto;
+    background-color: #ffcccc;
+    text-align:center;
+    padding:1%;
+    margin-top: 5%;
+}
+#about{
+    text-align: center;
+}
+.logo
+{
+    float:left;
+}
+
+.api
+{
+    margin: auto;
+    clear: both;
+    width: 20%;
+    
+}
+#api
+{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+    
+}

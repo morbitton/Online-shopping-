@@ -1,0 +1,26 @@
+
+        .formInput{float:left;width:35%;}
+        
+        fieldset{
+            padding:2%;
+            margin-bottom:6%;
+            
+        }
+        .inputWrapper{
+            padding:2%;
+            overflow:auto;
+        }
+        #submit{
+            float:left;
+            width:30%;
+            
+            
+        }
+        #error{
+            color:red;
+            font-size:30px;
+        }
+        #register{
+            float:left;
+            width:30%;
+        }
